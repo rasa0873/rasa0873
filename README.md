@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Raul Andres
+- 👋 Hi, I’m Raúl Andrés
 - 👀 I’m interested in Android / Java / Kotlin / Python developing
 - 🌱 Currently and constantly learning...
 - 💞️ I’m looking to collaborate on everyone involved in mobile Apps development. 
