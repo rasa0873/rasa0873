@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @rasa0873
-- 👀 I’m interested in Android / Java / Kotlin developing
-- 🌱 I’m currently learning more about Android/Kotlin
+- 👋 Hi, I’m Raul Andres
+- 👀 I’m interested in Android / Java / Kotlin / Python developing
+- 🌱 Currently and constantly learning...
 - 💞️ I’m looking to collaborate on everyone involved in mobile Apps development. 
 - 📫 How to reach me ...
 
